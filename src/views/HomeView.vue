@@ -1,0 +1,23 @@
+<template>
+  <div class="font-bold text-3xl text-center text-gray-500">Welcome Tiburce Kouagou</div>
+  <p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores adipisci vitae culpa et reiciendis, veritatis est voluptate suscipit eum animi, quia eius laborum, tempora impedit rerum ducimus alias aut consequatur accusantium id voluptates ab vel velit repellat. Totam sit possimus distinctio nisi a temporibus, exercitationem, officiis, unde laborum sed dolorem cumque porro minima? Possimus cumque quasi, voluptatum perspiciatis aut voluptatem qui placeat enim. Dignissimos repudiandae neque doloribus libero corrupti, quasi aliquid, iusto aspernatur, ad deserunt explicabo quidem assumenda in facilis ullam et esse consectetur asperiores! Eveniet, quos! Laboriosam nisi quia ab, aliquid illum iusto atque, dolorem fuga dolor ducimus eveniet hic? Cupiditate hic porro accusamus exercitationem
+    et expedita est itaque aliquid nesciunt, id, maxime, voluptates ipsam vero rem. Velit rerum autem, at dolorem asperiores aperiam minima porro quod sed fugiat dolores eum eos laboriosam, dicta nobis neque cumque, ut corrupti? Reprehenderit facere assumenda voluptatum illum vitae omnis quis fugit sint vel a corrupti explicabo in sed totam molestiae cupiditate ea, aut tempora perferendis repudiandae id nisi quidem velit iure! Suscipit ipsum repudiandae velit. Placeat explicabo alias, maxime eos, quia dolores in, expedita temporibus atque accusamus quibusdam quasi omnis labore porro? Odit et sunt dicta hic. Neque numquam expedita quibusdam recusandae?
+  </p>
+  <p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores adipisci vitae culpa et reiciendis, veritatis est voluptate suscipit eum animi, quia eius laborum, tempora impedit rerum ducimus alias aut consequatur accusantium id voluptates ab vel velit repellat. Totam sit possimus distinctio nisi a temporibus, exercitationem, officiis, unde laborum sed dolorem cumque porro minima? Possimus cumque quasi, voluptatum perspiciatis aut voluptatem qui placeat enim. Dignissimos repudiandae neque doloribus libero corrupti, quasi aliquid, iusto aspernatur, ad deserunt explicabo quidem assumenda in facilis ullam et esse consectetur asperiores! Eveniet, quos! Laboriosam nisi quia ab, aliquid illum iusto atque, dolorem fuga dolor ducimus eveniet hic? Cupiditate hic porro accusamus exercitationem
+    et expedita est itaque aliquid nesciunt, id, maxime, voluptates ipsam vero rem. Velit rerum autem, at dolorem asperiores aperiam minima porro quod sed fugiat dolores eum eos laboriosam, dicta nobis neque cumque, ut corrupti? Reprehenderit facere assumenda voluptatum illum vitae omnis quis fugit sint vel a corrupti explicabo in sed totam molestiae cupiditate ea, aut tempora perferendis repudiandae id nisi quidem velit iure! Suscipit ipsum repudiandae velit. Placeat explicabo alias, maxime eos, quia dolores in, expedita temporibus atque accusamus quibusdam quasi omnis labore porro? Odit et sunt dicta hic. Neque numquam expedita quibusdam recusandae?
+  </p>
+  <p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores adipisci vitae culpa et reiciendis, veritatis est voluptate suscipit eum animi, quia eius laborum, tempora impedit rerum ducimus alias aut consequatur accusantium id voluptates ab vel velit repellat. Totam sit possimus distinctio nisi a temporibus, exercitationem, officiis, unde laborum sed dolorem cumque porro minima? Possimus cumque quasi, voluptatum perspiciatis aut voluptatem qui placeat enim. Dignissimos repudiandae neque doloribus libero corrupti, quasi aliquid, iusto aspernatur, ad deserunt explicabo quidem assumenda in facilis ullam et esse consectetur asperiores! Eveniet, quos! Laboriosam nisi quia ab, aliquid illum iusto atque, dolorem fuga dolor ducimus eveniet hic? Cupiditate hic porro accusamus exercitationem
+    et expedita est itaque aliquid nesciunt, id, maxime, voluptates ipsam vero rem. Velit rerum autem, at dolorem asperiores aperiam minima porro quod sed fugiat dolores eum eos laboriosam, dicta nobis neque cumque, ut corrupti? Reprehenderit facere assumenda voluptatum illum vitae omnis quis fugit sint vel a corrupti explicabo in sed totam molestiae cupiditate ea, aut tempora perferendis repudiandae id nisi quidem velit iure! Suscipit ipsum repudiandae velit. Placeat explicabo alias, maxime eos, quia dolores in, expedita temporibus atque accusamus quibusdam quasi omnis labore porro? Odit et sunt dicta hic. Neque numquam expedita quibusdam recusandae?
+  </p>
+</template>
+
+<script>
+export default {
+  name: "HomeView",
+};
+</script>
+
+<style></style>
